@@ -1,0 +1,16 @@
+[
+    {
+      "model": "employee.Employee",
+      "pk":1,
+      "fields": {
+        "first_name": "John1",
+        "last_name": "Snow1",
+        "dept":5,
+        "salary":123456,
+        "bonus":123,
+        "role":3,
+        "phone":8954946430,
+        "join_date":"2022-12-26"
+      }
+    }
+  ]
